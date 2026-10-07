@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ibukun-keyamo.github.io/sitemap.xml
